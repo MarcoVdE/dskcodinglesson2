@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Code.iml" filepath="$PROJECT_DIR$/.idea/Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/lesson1.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/lesson1.iml" group="lesson1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/lesson1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/lesson1_main.iml" group="lesson1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/lesson1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/lesson1_test.iml" group="lesson1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/task1.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/task1.iml" group="lesson1/task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/task1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/task1_main.iml" group="lesson1/task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/task1/task1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/task1/task1_test.iml" group="lesson1/task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="util" />
+    </modules>
+  </component>
+</project>

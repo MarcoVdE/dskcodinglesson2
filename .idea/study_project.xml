@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StudySettings">
+    <StudyTaskManager>
+      <option name="course">
+        <Course>
+          <option name="authors">
+            <list>
+              <StepicUser>
+                <option name="accessToken" value="" />
+                <option name="firstName" value="Marco" />
+                <option name="guest" value="false" />
+                <option name="id" value="-1" />
+                <option name="lastName" value="Van der Eecken" />
+                <option name="refreshToken" value="" />
+              </StepicUser>
+            </list>
+          </option>
+          <option name="courseMode" value="Course Creator" />
+          <option name="courseType" value="PyCharm" />
+          <option name="description" value="This is the DSK coding course." />
+          <option name="language" value="JAVA" />
+          <option name="languageCode" value="en" />
+          <option name="lessons">
+            <list>
+              <Lesson>
+                <option name="id" value="0" />
+                <option name="index" value="1" />
+                <option name="name" value="lesson 01 - Hellow World" />
+                <option name="updateDate" />
+                <option name="taskList">
+                  <list>
+                    <TaskWithSubtasks>
+                      <option name="activeSubtaskIndex" value="1" />
+                      <option name="additionalFiles">
+                        <map />
+                      </option>
+                      <option name="index" value="1" />
+                      <option name="lastSubtaskIndex" value="1" />
+                      <option name="name" value="task1" />
+                      <option name="status" value="Solved" />
+                      <option name="stepId" value="0" />
+                      <option name="taskTexts">
+                        <map>
+                          <entry key="task_subtask0" value="&lt;html&gt;&#10;Write your task text here.&#10;&lt;br&gt;&#10;&lt;/html&gt;" />
+                        </map>
+                      </option>
+                      <option name="testsText">
+                        <map>
+                          <entry key="Test.java" value="class Test {&#10;    // put your test here&#10;}" />
+                        </map>
+                      </option>
+                      <option name="updateDate" />
+                      <option name="taskFiles">
+                        <map>
+                          <entry key="Task.java">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list>
+                                    <AnswerPlaceholder>
+                                      <option name="index" value="0" />
+                                      <option name="initialState" />
+                                      <option name="length" value="9" />
+                                      <option name="offset" value="91" />
+                                      <option name="selected" value="false" />
+                                      <option name="subtaskInfos">
+                                        <map>
+                                          <entry key="0">
+                                            <value>
+                                              <AnswerPlaceholderSubtaskInfo>
+                                                <option name="answer" value="" />
+                                                <option name="hasFrame" value="true" />
+                                                <option name="hints">
+                                                  <list>
+                                                    <option value="What is it that you want to print?" />
+                                                  </list>
+                                                </option>
+                                                <option name="needInsertText" value="false" />
+                                                <option name="placeholderText" value="type here" />
+                                                <option name="possibleAnswer" value="Hello World" />
+                                                <option name="selected" value="false" />
+                                                <option name="status" value="Unchecked" />
+                                              </AnswerPlaceholderSubtaskInfo>
+                                            </value>
+                                          </entry>
+                                        </map>
+                                      </option>
+                                      <option name="useLength" value="false" />
+                                    </AnswerPlaceholder>
+                                  </list>
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="index" value="0" />
+                                <option name="trackChanges" value="true" />
+                                <option name="trackLengths" value="true" />
+                                <option name="userCreated" value="false" />
+                                <option name="name" value="Task.java" />
+                                <option name="text" value="class Task {&#10;  //put your task here&#10;}" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                        </map>
+                      </option>
+                    </TaskWithSubtasks>
+                  </list>
+                </option>
+              </Lesson>
+            </list>
+          </option>
+          <option name="name" value="DSK Coding Course" />
+        </Course>
+      </option>
+      <option name="toolWindowMode" value="TEXT" />
+      <option name="turnEditingMode" value="false" />
+      <option name="VERSION" value="8" />
+      <option name="myUserTests">
+        <map />
+      </option>
+    </StudyTaskManager>
+  </component>
+</project>
